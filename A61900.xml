@@ -1,0 +1,405 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of confirmation a sermon preach'd at St. Benedict Grace-Church, March 14th, 1693, the day on which the Right Reverend Father in God, Henry, Lord Bishop of London, confirmed there / by Philip Stubs ...</title>
+            <author>Stubs, Philip, 1665-1738.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61900</idno>
+            <idno type="STC">Wing S6078</idno>
+            <idno type="STC">ESTC R14889</idno>
+            <idno type="EEBO-CITATION">12719561</idno>
+            <idno type="OCLC">ocm 12719561</idno>
+            <idno type="VID">66278</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61900)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66278)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 369:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of confirmation a sermon preach'd at St. Benedict Grace-Church, March 14th, 1693, the day on which the Right Reverend Father in God, Henry, Lord Bishop of London, confirmed there / by Philip Stubs ...</title>
+                  <author>Stubs, Philip, 1665-1738.</author>
+               </titleStmt>
+               <extent>[6], 29, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Bonwicke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half-title: Mr. Stubbs sermon of confirmation.</note>
+                  <note>"Published at the request of the parishioners"</note>
+                  <note>Advertisements: p. [1] at end.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  N.T. --  Hebrews VI, 2 --  Sermons.</term>
+               <term>Confirmation sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66278:1"/>
+            <p>Mr. <hi>STUBS</hi>'s SERMON OF <hi rend="blackletterType">Confirmation.</hi>
+            </p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:66278:2"/>
+            <p>Imprimatur.</p>
+            <p>
+               <hi>May</hi> 23d. 1693.</p>
+            <p>Guil. Lancaſter, R. P. D. Henrico <hi>Epiſc.</hi> Lond. <hi>a ſacris Domeſticis.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:66278:2" rendition="simple:additions"/>
+            <p>
+               <hi>Of Confirmation.</hi>
+            </p>
+            <p>A SERMON Preach'd at St. <hi>Benedict Grace-Church,</hi> March 14th. 1693.</p>
+            <p>The Day on which the <hi>Right Reverend Father in GOD,</hi> HENRY Lord Biſhop of <hi>LONDON,</hi> Confirmed there.</p>
+            <p>By <hi>PHILIP ST<g ref="char:V">Ʋ</g>BS,</hi> A. M. Fellow of <hi>Wadham-College, Oxon.</hi> And Chaplain to the Right Reverend Father in God, <hi>ROBERT</hi> Lord Biſhop of <hi>CHICHESTER.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed at the Requeſt of the Pariſhioners.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Bonwicke,</hi> at the <hi>Red Lion</hi> in St. <hi>Paul</hi>'s Church-Yard, MDCXCIII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:66278:3"/>
+            <pb facs="tcp:66278:3"/>
+            <head>To the much Eſteemed, his very good Friends, the Inhabitants of the Uni<g ref="char:EOLhyphen"/>ted Pariſhes, St. <hi>Benedict Grace-Church,</hi> And St. <hi>Leonard Eaſt-Cheap.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <hi>THE Importunity of Friends,</hi> is gene<g ref="char:EOLhyphen"/>rally ſuſpected to be but a feign'd Apology of ſome conceited Writers, for the Publi<g ref="char:EOLhyphen"/>cation of their darling Conceptions; and where its more than a mere pretence, I muſt confeſs my ſelf of the Opinion, That 'tis one of the weakeſt Mo<g ref="char:EOLhyphen"/>tives, for a Man's expoſing of himſelf, that can be: By ſignifying openly the <hi>repeated</hi> Requeſts of <hi>both</hi> Pariſhes for the Printing this Sermon of <hi>Con<g ref="char:EOLhyphen"/>firmation,</hi> (it muſt be own'd) I clear my ſelf ſuf<g ref="char:EOLhyphen"/>ficiently from the former Imputation; But how I ſhall get rid of the other Charge I know not, Tho' I ſhould declare, That you back'd your Requeſts with an Intimation, that ye thought it not only a <hi>Seaſonable</hi> Diſcourſe, but a very <hi>ſerviceable</hi> one too: For, however the Firſt part of the Character may be applicable enough to it, with reſpect to the Time when, and occaſion on which 'twas Preach'd, I cannot be ſo <hi>fond</hi> of this mean, <hi>haſty</hi> Performance,
+<pb facs="tcp:66278:4"/>as to think the reſt of the World will be ſo chari<g ref="char:EOLhyphen"/>table, as ye have been, in admitting of the latter: But, whatever ſucceſs it may have abroad, I am glad it had its intended effect at home; which was, To make you ſtill more enamour'd with, and bene<g ref="char:EOLhyphen"/>fited by one of the Pious Conſtitutions of our <hi>Eſta<g ref="char:EOLhyphen"/>bliſhed Church;</hi> for which in General (I cannot without the higheſt Ingratitude, omit this Oppor<g ref="char:EOLhyphen"/>tunity of Publiſhing it) ye have many of you a profound Veneration. That <hi>God Almighty</hi> would confirm you <hi>all</hi> every Day more and more in this juſt Eſteem for her Principles and Practices, <hi>i.e.</hi> That he would daily ſtrengthen you <hi>all</hi> in the <hi>Faith</hi> profeſs'd by her <hi>once deliver'd to the Saints,</hi> and that ye may have ſuch a <hi>right Judgment</hi> to follow her reſpe<g ref="char:EOLhyphen"/>ctive Injunctions, as may ſettle in every one of your Breaſts a firm Peace <hi>here,</hi> and procure for you ever<g ref="char:EOLhyphen"/>laſting Happineſs <hi>hereafter,</hi> is the hearty deſire, and ſhall be (whilſt amongſt you) the continued Endeavour of him, who profeſſes himſelf with the greateſt Sincerity,</p>
+            <closer>
+               <signed>
+                  <hi>Your moſt Obliged, Affectionate, Humble Servant In the Lord,</hi> PHIL. ST<g ref="char:V">Ʋ</g>BS.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:66278:4"/>
+            <head>A SERMON OF <hi rend="blackletterType">Confirmation,</hi> &amp;c.</head>
+            <q>
+               <p>
+                  <bibl>Heb. vi. <hi>part of the Second Verſe.</hi>
+                  </bibl>
+                  <hi rend="blackletterType">And of laying on of Hands.</hi>
+               </p>
+            </q>
+            <p>The Context runs thus,</p>
+            <q>
+               <p>Verſ. 1. <hi>Therefore leaving the Principles of the Do<g ref="char:EOLhyphen"/>ctrine of Chriſt, let us go on unto Perfection; not laying again the Foundation of Repentance from dead Works, and of Faith towards God,</hi>
+               </p>
+               <p>Verſ. 2. <hi>Of the Doctrine of Baptiſms,</hi> 
+                  <hi rend="blackletterType">and of lay<g ref="char:EOLhyphen"/>ing on of Hands, and of Reſurrection of the Dead, and of Eternal Judgment.</hi>
+               </p>
+            </q>
+            <p>THE Words are in Proſecution of a Digreſſion, begun by the Author of this Epiſtle, at the 11th. Verſe of the foregoing Chapter: Where, in the middle of a Diſcourſe concerning the Au<g ref="char:EOLhyphen"/>thority and Dignity of our <hi>Saviour's Prieſthood</hi> beyond that of <hi>Aaron</hi>'s, he takes Occaſion to re<g ref="char:EOLhyphen"/>primand the Negligence and Improficiency of
+<pb n="2" facs="tcp:66278:5"/>ſome new Converts, in the <hi>Sublimer Myſteries</hi> of the <hi>Goſpel;</hi> Telling them, that he had <hi>many things</hi> more <hi>to ſay</hi> about thoſe Matters (which he afterwards reſumes again accordingly at the Beginning of the 7th. Chapter) but they were ſuch, as were now <hi>hard to be uttered</hi> clearly e<g ref="char:EOLhyphen"/>nough, becauſe they were <hi>dull of hearing:<note place="margin">
+                     <hi>v.</hi> 11. </note> For,</hi> ſaith he, as he goes on blaming them, <hi>when for the Time,</hi> that conſiderable Time, that ye have profeſſed Chriſtianity, <hi>ye ought to be Teachers</hi> of others, <hi>ye have need</hi> ſome of you, <hi>That one teach you again which be the firſt Principles of the Works of God: and are become ſuch as have need of Milk and not of ſtrong Meat:</hi>
+               <note place="margin">
+                  <hi>v.</hi> 12.</note> That is, they were yet ſuch <hi>Babes</hi> in <hi>Chriſt,</hi> as he expreſſes himſelf in the next Verſe,<note place="margin">
+                  <hi>v.</hi> 13.</note> That they were hardly paſt their <hi>Ca<g ref="char:EOLhyphen"/>techiſm,</hi> as we ſay, That little Book which teaches young Beginners the firſt Rudiments of Reli<g ref="char:EOLhyphen"/>gion: Such an one, as is ſuppoſed to be hinted at in the Context, which did contain, amongſt others, the reſpective Doctrines there reckon'd up; But now, that he might fully wean them from this Childiſh Diet, and by ſtronger Nou<g ref="char:EOLhyphen"/>riſhment rear them up unto <hi>perfect Men, unto the Meaſure of the Stature of the Fullneſs of Chriſt;</hi>
+               <note place="margin">Eph. 4.13</note> he doth in the Words before us, like a wiſe Maſter in the School of the Bleſſed <hi>Jeſus, catch them by Guile</hi>
+               <note place="margin">2 Cor 12.16.</note> (that I may uſe his own
+<pb n="3" facs="tcp:66278:5"/>Phraſe in another Place) ſmoothing them up as it were, and yet tacitly upbraiding them for their paſt Miſcarriage in this Particular: <hi>There<g ref="char:EOLhyphen"/>fore,</hi> (as if he had ſaid, If we mean not always to be Children) <hi>leaving the Principles of the Doctrine of Chriſt,</hi> for ſhame, <hi>Let us go on unto Perfection: Not laying again the Foundation of Re<g ref="char:EOLhyphen"/>pentance from dead Works,</hi> &amp;c.</p>
+            <p>From which Reproof of our Apoſtle, what Doctrine for our Inſtruction might be rais'd at this time, is very obvious: <hi>viz.</hi> That the Back<g ref="char:EOLhyphen"/>wardneſs or Non-proficiency of theſe new Con<g ref="char:EOLhyphen"/>verts in Religious Matters, under the ableſt Tea<g ref="char:EOLhyphen"/>cher then in the World, was unconceivably great: For that St. <hi>Paul</hi> was ſo, after our Savi<g ref="char:EOLhyphen"/>our's Aſcenſion, muſt be allowed by all; in that, He alone of all the Apoſtles was a Scholar be<g ref="char:EOLhyphen"/>fore he was a Chriſtian; and ſo learn'd without Inſpiration, That upon that ſingle Account he might with Modeſty enough have ſaid, <hi>He was not a whit behind the very Chiefeſt Apoſtles,</hi>
+               <note place="margin">2 Cor. 11.5.</note> had not he, as he himſelf tells the <hi>Galatians, profited in the</hi> Jews <hi>Religion above his Equals,</hi>
+               <note place="margin">Gal. 1.12, 14.</note> and receiv'd the Knowledge of our Saviour, as he did, <hi>not from Men, but by the Revelation of Jeſus Chriſt.</hi>
+            </p>
+            <p>We might, I ſay, raiſe a good Head of Diſ<g ref="char:EOLhyphen"/>courſe for our preſent Inſtruction, from this ge<g ref="char:EOLhyphen"/>neral Reproof of our Apoſtle, about the Back<g ref="char:EOLhyphen"/>wardneſs
+<pb n="4" facs="tcp:66278:6"/>or Non-proficiency of the Primitive Chriſtians in Religious Concerns, under the a<g ref="char:EOLhyphen"/>bleſt Teacher in the World; did not the Buſi<g ref="char:EOLhyphen"/>neſs of this Day, and the Ignorance of too many even amongſt our ſelves, determine our Medita<g ref="char:EOLhyphen"/>tions to that Part of the Context, where mention is made, of <hi>laying on of Hands;</hi> By which Words what is to be underſtood, and what is con<g ref="char:EOLhyphen"/>tained in them, I ſhall endeavour to ſhew (with all the Brevity and Clearneſs I can) as a pro<g ref="char:EOLhyphen"/>per preliminary Subject, to the ſolemn Celebra<g ref="char:EOLhyphen"/>tion of that pious, Primitive Inſtitution of <hi>Con<g ref="char:EOLhyphen"/>firmation,</hi> to be perform'd here this Afternoon, by the <hi>Right Reverend Father</hi> in <hi>God</hi> the <hi>Lord Biſhop</hi> of this Dioceſs.</p>
+            <p>Now for the better, and more full Explication of the Text, Be pleaſed to take notice, That <hi>Laying on of Hands,</hi> or <hi>Impoſition of Hands,</hi> as 'tis more Scholaſtically term'd, <hi>Is a Sacred Rite, whereby ſome</hi> Holy Perſon, <hi>that prays for, or bleſſes another, particularly points out the Perſon ſo pray'd for or bleſs'd as one, on whom</hi> Grace <hi>or</hi> other Special Benefit <hi>is to be conferr'd:</hi> Which accordingly we find made uſe of either in the Old or New Teſtament, in the Four following Inſtances,</p>
+            <p n="1">1. In ſimple <hi>Benediction</hi> or <hi>Bleſſing</hi> of <hi>Perſons;</hi> Thus, in the Old Teſtament, the Patriarch <hi>Ja<g ref="char:EOLhyphen"/>cob</hi>
+               <pb n="5" facs="tcp:66278:6"/>in bleſſing the Sons of <hi>Joſeph, laid his Hands</hi> upon their Heads, <hi>Gen.</hi> 48.14, 15. And in the New, our Saviour is ſaid, <hi>To take the little Children up in his Arms, to</hi> lay his Hands upon them, <hi>and bleſs them,</hi> Mark 10.16.</p>
+            <p n="2">2. In <hi>Conſecration,</hi> or <hi>Ordination,</hi> of <hi>Prieſts</hi> or <hi>Miniſters;</hi> Thus we read, <hi>Numb.</hi> 27.18. un<g ref="char:EOLhyphen"/>der the Levitical Diſpenſation, <hi>The Lord ſaid unto</hi> Moſes, <hi>Take thee</hi> Joſhua <hi>the Son of</hi> Nun, <hi>and</hi> lay thine Hand <hi>upon him;</hi> as a Conſequent of which we are told, <hi>Deut.</hi> 34.9. That, Jo<g ref="char:EOLhyphen"/>ſhua <hi>the Son of</hi> Nun <hi>was</hi> full of the Spirit <hi>of Wiſdom, for</hi> Moſes <hi>had</hi> laid his Hands <hi>upon him.</hi> Conformable whereunto we have the like Pra<g ref="char:EOLhyphen"/>ctiſe regiſtred under the Goſpel-Oeconomy, <hi>Acts</hi> 13.3. <hi>And when they had faſted, and pray<g ref="char:EOLhyphen"/>ed, and</hi> laid their Hands upon them, <hi>they ſent them away,</hi> meaning <hi>Barnabas</hi> and <hi>Saul,</hi> to whom God had thereby imparted Gifts proper for the <hi>Work whereunto he had called them;</hi>
+               <note place="margin">Acts 13.2.</note> which like Gift St. <hi>Paul</hi> puts <hi>Timothy</hi> in Mind of, when he charges him thus, 1 <hi>Tim.</hi> 4.14. <hi>Neglect not the</hi> Gift <hi>that is in thee, which was given thee by Prophecy, with the</hi> laying on of the Hands <hi>of the Presbytery.</hi>
+            </p>
+            <p n="3">3. This Rite was made uſe of by our Bleſſed Saviour and his Apoſtles, in <hi>Curing Diſeaſes</hi> and <hi>Healing the Sick.</hi> So we find, <hi>Mark</hi> 6.5. <hi>That
+<pb n="6" facs="tcp:66278:7"/>he</hi> (our Saviour) <hi>could do no mighty Work</hi> in his own Country, <hi>ſave that he</hi> laid his Hands <hi>upon a few ſick folk and healed them:</hi> Nay, This is one of thoſe very ſigns promiſed to thoſe that ſhould believe in the Name of <hi>Chriſt, Mark</hi> 16.18. <hi>They ſhall</hi> lay Hands <hi>on the ſick, and they ſhall recover:</hi> Accordingly, St. <hi>Paul</hi> cur'd <hi>Pub<g ref="char:EOLhyphen"/>lius</hi>'s Father of a Fever, <hi>Acts</hi> 28.8.</p>
+            <p>
+               <hi>Laſtly,</hi> This Rite was made uſe of in Scrip<g ref="char:EOLhyphen"/>ture, by the Apoſtles, at <hi>Confirmation,</hi> or <hi>Prayer</hi> with <hi>Impoſition of Hands,</hi> for the Eſtabliſhment and ſtrengthening ſuch in the Faith, as had been already <hi>Baptized;</hi> which Inſtitution of theirs God was pleaſed ſo far to approve of, ſaith a Reve<g ref="char:EOLhyphen"/>rend Author,
+<note place="margin">
+                  <hi>See Dr.</hi> Com<g ref="char:EOLhyphen"/>ber<hi>'s brief Diſ<g ref="char:EOLhyphen"/>courſe upon the Office of</hi> Confir<g ref="char:EOLhyphen"/>mation.</note> 
+               <q>That he did actually give won<g ref="char:EOLhyphen"/>derful Meaſures of the Spirit, to thoſe on whom they laid their Hands; thereby honou<g ref="char:EOLhyphen"/>ring the Governours of his Church, and enga<g ref="char:EOLhyphen"/>ging all the Members thereof to be ſubject to them, and to be at Peace one with another. This appears from that famous Inſtance, <hi>Acts</hi> 8.14, 15, 16, 17. where, when the <hi>Sama<g ref="char:EOLhyphen"/>ritans</hi> had been converted and baptized by <hi>Philip</hi> the Deacon, they did not receive the Holy Ghoſt, until St. <hi>Peter</hi> and St. <hi>John</hi> had confirmed them,
+<note n="*" place="margin">
+                     <hi>Id quod deerat a</hi> Petro <hi>&amp;</hi> Jo<g ref="char:EOLhyphen"/>hanne <hi>factum eſt, ut Oratione pro eis habitâ, &amp; manu impoſitâ, invocaretur &amp; infunderetur ſu<g ref="char:EOLhyphen"/>per eos ſpiritus ſanctus.</hi> Cypr. Bp. ad Jubaian.</note> from whence the Fathers generally deduce this Practice. But that this was generally conſtituted among the Apoſtles
+<pb n="7" facs="tcp:66278:7"/>is evident, becauſe St. <hi>Paul</hi> meeting with ſome baptized Perſons at <hi>Epheſus,</hi> did in like man<g ref="char:EOLhyphen"/>ner <hi>lay his Hands</hi> upon them, and confirm them, <hi>Acts</hi> 19.6. of which he minds them, <hi>Eph.</hi> 1.13. <hi>In whom alſo after that ye believed ye were ſealed with the Holy Spirit of Promiſe.</hi> And ſo we may juſtly believe he did in other Churches, whereupon he ſaith to thoſe of <hi>Co<g ref="char:EOLhyphen"/>rinth,</hi> 2 <hi>Cor.</hi> 1.21, 22. <hi>He which</hi> confirmeth <hi>us with you in Chriſt, and hath</hi> anointed us, is God; who hath alſo ſealed us, <hi>&amp;c.</hi>
+                  <note n="†" place="margin">
+                     <gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>
+               </q>
+            </p>
+            <p>Now, whether by the Doctrine of <hi>Laying on of Hands</hi> in the Text, is meant all the Four Sorts juſt mentioned, or that of <hi>Confirmation</hi> only, is not very material: For though ſome Commentators will have theſe Words ſpeak of all of them, becauſe the Apoſtle juſt before men<g ref="char:EOLhyphen"/>tioned the Doctrine of <hi>Baptiſms,</hi> which they ſay includes the ſeveral Species of it, <hi>viz.</hi> That of the <hi>Jews,</hi> of <hi>John</hi> the <hi>Baptiſt,</hi> and our <hi>Saviour</hi>'s; That of Blood, <hi>Matth.</hi> 20.23. That of Fire, <hi>Matth.</hi> 3.11; That of Water externally, as well as the Internal one of the Holy Ghoſt, 1 <hi>Pet.</hi> 3.21. And others more probably, will have them deſign <hi>Confirmation</hi> ſingly, becauſe he is here reckoning up the Fundamentals of Religion, amongſt which <hi>Impoſition of Hands in abſolving Penitents</hi> (ano<g ref="char:EOLhyphen"/>ther Apoſtolical Uſage of this Ceremony, tho'
+<pb n="8" facs="tcp:66278:8"/>not of expreſs Scripture Foundation) cannot be numbred, becauſe taken in in the Word <hi>Repen<g ref="char:EOLhyphen"/>tance</hi> before; nor that of <hi>Ordination,</hi> becauſe 'tis one of thoſe <hi>Myſteries</hi> of Perfection to which St. <hi>Paul</hi> goes on Chap. 7; nor either of the other two, upon very obvious Accounts: We may hence learn however, That <hi>Confirmation</hi> is gene<g ref="char:EOLhyphen"/>rally thought to be grounded here; for which I might urge to you many Ancient Authorities: But becauſe I would not ſeem oſtentatious, and <hi>Modern Writers</hi> are more Authentick with ſome Men than the <hi>Primitive Fathers,</hi> let me juſt tell you that moſt of the old Reformed Divines of Note, ſuch as <hi>Beza, Illyricus, Chemnitius, Zan<g ref="char:EOLhyphen"/>chius</hi> and others are of this Opinion: particu<g ref="char:EOLhyphen"/>larly <hi>Calvin</hi> (who ſhall ſtand for all) is expreſs upon the Place,
+<note place="margin">V. Calvin. <hi>ſup. cap.</hi> 6. <hi>ad</hi> Heb. <hi>comm.</hi> 2.</note> 
+               <hi>Hic unus locus abunde teſtatur hujus Ceremoniae originem fluxiſſe ab Apoſto<g ref="char:EOLhyphen"/>lis,</hi> &amp;c. <hi>This one Place,</hi> ſaith he, <hi>evidently ſhews that</hi> Confirmation <hi>was inſtituted by the Apoſtles.</hi>
+            </p>
+            <p>Having thus explain'd to you at large the meaning of my Text, and ſhewn, that by the Doctrine of <hi>laying on of Hands</hi> is meant <hi>Confirma<g ref="char:EOLhyphen"/>tion,</hi> the Buſineſs of this Day, I ſhall now diſmiſs the Words, and ſpeak to the thing it ſelf, what may be ſuitable to the preſent Occaſion; And that I may omit nothing pertinent, I ſhall pro<g ref="char:EOLhyphen"/>ſecute my Diſcourſe in the following Method.</p>
+            <pb n="9" facs="tcp:66278:8"/>
+            <p n="1">1. I ſhall endeavour to ſhew, That <hi>Confirma<g ref="char:EOLhyphen"/>tion</hi> was not to be a <hi>temporary</hi> Rite in the Church only for the Apoſtles times, (as ſome would have it) becauſe of the viſibly different effects it had then, from what it has now, but <hi>perpetual</hi> for after Ages.</p>
+            <p n="2">2. I ſhall conſider with whom the Power of <hi>Confirming</hi> is now lodg'd; and ſhew, according to the Practice of the Church of <hi>England,</hi> that it ought to be executed by the <hi>Biſhop</hi> alone.</p>
+            <p n="3">3. I ſhall offer to you what are, or may be the Benefits of ſuch our <hi>Confirmation;</hi> and,</p>
+            <p>
+               <hi>Laſtly,</hi> The Qualifications and Duty of ſuch as intend to be, or are already <hi>Confirmed.</hi>
+            </p>
+            <p>And <hi>Firſt</hi> then, That <hi>Confirmation</hi> was not to be a mere <hi>temporary</hi> Rite, calculated only for the Exigencies of the Apoſtolical Times, but a <hi>per<g ref="char:EOLhyphen"/>petual</hi> Uſage for the Benefit of all ſucceeding Ages, I might plainly prove from the combined Te<g ref="char:EOLhyphen"/>ſtimony of all the Fathers almoſt, not a few Councils, and the conſtant Practice of the Ea<g ref="char:EOLhyphen"/>ſtern and Weſtern Churches,<note place="margin">Tertullian, <hi>St.</hi> Cyprian, Ori<g ref="char:EOLhyphen"/>gen, <hi>St.</hi> Am<g ref="char:EOLhyphen"/>broſe, <hi>St.</hi> Cy<g ref="char:EOLhyphen"/>ril, Gregory Nazianzen, <hi>St.</hi> Auſtin, <hi>&amp;c. The Council of</hi> Elvira, <hi>that of</hi> Laodicea, <hi>&amp;c.</hi> Pag. 6.</note> from the hearty Deſires for its Reſtauration of the moſt emi<g ref="char:EOLhyphen"/>nent Reformers, ſuch were <hi>Calvin, Bullinger,</hi> and others above-cited, together with the Obedience thereunto of the <hi>Bohemian</hi> and <hi>Luthe<g ref="char:EOLhyphen"/>ran Churches,</hi> as unto an <hi>Apoſtolical Practice;</hi>
+               <note place="margin">V. Chemnitii, <hi>Exam. Conc. Tridentini Part.</hi> 2. <hi>Pag.</hi> 259.</note> from the Earneſt Suffrages after, and endeavours for
+<pb n="10" facs="tcp:66278:9"/>the reſettling of it here in <hi>England,</hi> by ſome of the ableſt <hi>Presbyterian</hi> Miniſters; Who, towards the cloſe of the late <hi>Times of Confuſion,</hi> when their Zeal for what they call'd <hi>Reformation</hi> began to abate, (ſeeing ſome amongſt them under that fulſome pretence had <hi>Reform'd</hi> all Religion al<g ref="char:EOLhyphen"/>moſt out of Doors) and they began to contrive the retrieving ſuch Sacred Inſtitutions, which ſhould contribute to the Advancement of Purity and Concord in the Churches of theſe King<g ref="char:EOLhyphen"/>doms: <hi>Confirmation,</hi> which is very remarkable, had the good Luck to be thought upon by them, as one that deſerv'd their utmoſt, and call'd for their earlieſt Application; accordingly upon oc<g ref="char:EOLhyphen"/>caſion of one <hi>Hanmer</hi>'s <hi>Book,</hi> that was printed on that Subject in the Year 1658,<note place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>or an Exercitation up<g ref="char:EOLhyphen"/>on</hi> Confirmati<g ref="char:EOLhyphen"/>on, <hi>by</hi> Jonathan Hanmer <hi>Mini<g ref="char:EOLhyphen"/>ſter of the Goſ<g ref="char:EOLhyphen"/>pel.</hi> 8vo.</note> Mr. <hi>Joſeph Ca<g ref="char:EOLhyphen"/>ryl</hi> in his Approbation of it, tells the World, That <hi>Confirmation</hi> or <hi>Impoſition of Hands with Prayer,</hi> for the compleating of Church-Member<g ref="char:EOLhyphen"/>ſhip, (which is what Mr. <hi>Hanmer</hi> pleads for, and is one main Deſign of Confirmation amongſt us) <hi>Would be Perfective of the much deſired and longed-for Reſtauration of the Churches to their Pri<g ref="char:EOLhyphen"/>mitive Purity.</hi>
+               <note place="margin">
+                  <hi>See his</hi> Impri<g ref="char:EOLhyphen"/>matur <hi>before the Title-Page.</hi>
+               </note> Mr. <hi>John Howe</hi> ſaith the ſame great things of it, though in other Words,<note place="margin">See his Letter in the Preface.</note> That <hi>'twas the only expedient to extricate the Church out of thoſe many perplexing Difficulties, through which 'twas ſtriving forwards towards a Reformation;</hi>
+               <pb n="11" facs="tcp:66278:9"/>Mr. <hi>Hughes</hi> of <hi>Plymouth</hi> Styles it there,
+<note place="margin">To the Reader.</note> 
+               <hi>a Ratio<g ref="char:EOLhyphen"/>nal and Chriſtian Inſtitution;</hi> Mr. <hi>Richard Baxter</hi> approves of it in his <hi>Saint</hi>'s <hi>Reſt,</hi> Book of <hi>Infant Baptiſm,</hi> and another of <hi>Right to Sacraments,</hi> but here more particularly, (beſides many Eulogies given to it) concludes that it <hi>ought to be enter<g ref="char:EOLhyphen"/>tain'd with univerſal Alacrity upon ſeveral Ac<g ref="char:EOLhyphen"/>counts.</hi>
+               <note place="margin">To the Chriſtian Reader.</note> 1. <hi>Becauſe it is ſo commonly received by Proteſtants.</hi> 2. <hi>Becauſe it is excellently ſuited to the joint promoting of Holineſs and <g ref="char:V">Ʋ</g>nity;</hi> and ſo on. <hi>Laſtly,</hi> to name no more (though I might urge to you the <hi>New-England</hi> People, who allow of it, as is plain from Mr. <hi>Cotton</hi>'s <hi>Way of the Churches there,</hi> Chap. 2. §. 2.)<note place="margin">
+                  <hi>To the</hi> Beraean <hi>Readers.</hi>
+               </note> Mr. <hi>Ralph Venning</hi> in his Commendation of it, after he ſays, <hi>That he doth not ſee how it can be neglected without a very great Prejudice to Church-Commu<g ref="char:EOLhyphen"/>nion;</hi> adds, <hi>But haply, ſome may be ſo nice, as to be offended with the Name, and diſlike</hi> Confirma<g ref="char:EOLhyphen"/>tion <hi>for fear of</hi> Biſhoping, <hi>as if that old faſhion'd-Garment had but a piece of new-nam'd Cloth put to it, and dreſs'd up in another mode;</hi> to which he immediately ſubjoins this ſarcaſtical Quaery, <hi>If it were ſo, can no good come out of</hi> Nazareth? <hi>Bonus odor veritatis ex re quâlibet.</hi> Intimating thereby very ingenuouſly, as I conceive, That <hi>Confirmation</hi> as 'twas practis'd in the <hi>Church</hi> of <hi>England</hi> by <hi>Biſhops</hi> (before they were unjuſtly
+<pb n="12" facs="tcp:66278:10"/>thrown out) was a wholeſome Inſtitution, and therefore not to be rejected; ſince Truth muſt be readily embrac'd where-ever 'tis met with; which is no ſmall Encomium, conſidering (eſpecially) it came from a known Adverſary to us.</p>
+            <p>Thus might we have the concurrent Senſe and Practice of the <hi>Catholick Church</hi> for the Perpetuity of <hi>Confirmation,</hi> of <hi>Modern</hi> Divines, as well as <hi>Ancient; Proteſtants,</hi> as well as <hi>Papiſts; Calvi<g ref="char:EOLhyphen"/>niſts</hi> as well as <hi>Lutherans; Nonconformiſts</hi> as well as <hi>Church of England</hi> Men: But the Modeſty of ſome Perſons is ſo great, that a <hi>Cloud</hi> of Wit<g ref="char:EOLhyphen"/>neſſes for any Doctrine that thwarts their pre<g ref="char:EOLhyphen"/>ſent Inclinations, ſhall appear to them but as one of Smoak that ſoon vaniſhes away; Nay, rather than be convinced, or acknowledge them<g ref="char:EOLhyphen"/>ſelves to be in an Errour, their own Private ſhallow Judgment ſhall ſway with them more, than the united ſober Opinions even of the Heads of their own Party. How ſhall we be<g ref="char:EOLhyphen"/>lieve, ſay theſe Men, That <hi>Confirmation</hi> was to be a <hi>perpetual Rite;</hi> or ſay, as you Church-Men do, That your <hi>Impoſition of Hands</hi> is <hi>after the Example of the Apoſtles?</hi>
+               <note place="margin">
+                  <hi>See in the</hi> Pro<g ref="char:EOLhyphen"/>per Collect, <hi>in the Office of</hi> Confirmation, <hi>
+                     <g ref="char:V">Ʋ</g>pon whom (af<g ref="char:EOLhyphen"/>ter the Example of the Apoſtles) we have laid our hands,</hi> &amp;c.</note> When 'tis ſo far from it, That the effects then conſequent thereupon are now wholly ceas'd: We read indeed, in the Eighth and Nineteenth Chapters of the <hi>Acts</hi> of the Ho<g ref="char:EOLhyphen"/>ly <hi>Apoſtles,</hi> that when <hi>Confirmations</hi> were held
+<pb n="13" facs="tcp:66278:10"/>by St. <hi>Peter</hi> and St. <hi>John</hi> at <hi>Samaria,</hi> and St. <hi>Paul</hi> at <hi>Epheſus,</hi> The <hi>Holy Ghoſt</hi> viſibly and miracu<g ref="char:EOLhyphen"/>louſly ſet a Seal to this Ordinance, by beſtowing on the Perſons confirm'd extraordinary Gifts, ſuch were that of Prophecy, ſpeaking with tongues, and the like, neceſſary for thoſe times; upon which account they might well ſay, <hi>Re<g ref="char:EOLhyphen"/>ceive ye the Holy Ghoſt:</hi> But where is that bold Prelate amongſt you, that dare pretend to any ſuch Power now?</p>
+            <p>Nor do any of our <hi>Biſhops</hi> make uſe of that Form in <hi>Confirmation,</hi> but only pray, <hi>That God would defend that Child, or Servant of his,</hi> on whom they lay their Hands, <hi>with his Heavenly</hi> ſtrengthening <hi>Grace,</hi> &amp;c.<note place="margin">
+                  <hi>See the</hi> Bene<g ref="char:EOLhyphen"/>diction <hi>in the Office of</hi> Con<g ref="char:EOLhyphen"/>firmation.</note> Whoſe Prayers, together with thoſe of a great many devout People aſſem<g ref="char:EOLhyphen"/>bled at ſuch times, we cannot doubt, but are effe<g ref="char:EOLhyphen"/>ctual for the obtaining that Bleſſing, for all ſuch who are qualified to receive it, and are not <hi>Con<g ref="char:EOLhyphen"/>tentious</hi> or <hi>Deſpiſers of the Church of God.</hi>
+               <note place="margin">1 Cor. 11, 16.22.</note>
+            </p>
+            <p>And that no more than this, <hi>viz.</hi> The obtain<g ref="char:EOLhyphen"/>ing the inward Graces of God's <hi>Holy Spirit</hi> for ſome that were confirmed, was deſigned by the <hi>Apoſtles</hi> themſelves in their <hi>Confirmations,</hi> I think may be fairly gather'd from that very Place, alledg'd to the contrary, out of the Eighth Chapter of the <hi>Acts:</hi> For as our Right Reverend <hi>Dioceſan</hi> hath obſerved,<note place="margin">
+                  <hi>In his</hi> 3d. <hi>Letter to his Clergy,</hi> 1682 <hi>on</hi> Con<g ref="char:EOLhyphen"/>firmation.</note> where this Power is mentioned, <q>There
+<pb n="14" facs="tcp:66278:11"/>is no Exception of Age, Sex, or Profeſſion; but all indifferently that had been baptized re<g ref="char:EOLhyphen"/>ceived the <hi>Holy Ghoſt</hi> by <hi>Impoſition of Hands</hi> As it is ſaid, <hi>Acts</hi> 10.47. when St. <hi>Peter</hi> preach'd at <hi>Cornelius</hi>'s Houſe, the <hi>Holy Ghoſt</hi> fell upon all that were to be <hi>baptiz'd,</hi> as a Token of their being fit for it, Verſe 48.</q> Which if ſo,</p>
+            <p>
+               <q>If the Caſe be thus, that the <hi>Holy Ghoſt</hi> fell on all indifferently, and that all could not Propheſie, all had not the Gift of Healing or of Tongues, nay, that all had not a Share of any outward Gift; then certainly they, whom God ſeparated not to any Office of the Church by ſome outward Gift, for the Con<g ref="char:EOLhyphen"/>verſion or Edification of others, had only ſome outward ſhew paſſed upon them for the greater Evidence of the inward Gifts of the Spirit of Grace, <hi>Gratiae gratum facientis.</hi>
+               </q>
+            </p>
+            <p>This, in ſhort then, I take to be the Sence of our Church in this Matter; That the <hi>Holy Ghoſt</hi> is given us in this Ordinance, not to make us able to propheſie, to ſpeak with Tongues, or the like, But to know the Word, and to do the Will of God as well as we can. To which Pur<g ref="char:EOLhyphen"/>poſe, that I may conclude this Head, hear what St. <hi>Auſtin</hi> ſaid long ago againſt the <hi>Donatiſts;<note place="margin">De Bapt. <hi>con<g ref="char:EOLhyphen"/>tra Donatiſt.</hi> lib. 3. cap. 16.</note> Neque enim temporalibus &amp; ſenſibilibus miraculis per Manus Impoſitionem,</hi> &amp;c. <hi>The Spirit which
+<pb n="15" facs="tcp:66278:11"/>is now given by</hi> Impoſition of Hands, <hi>is not at<g ref="char:EOLhyphen"/>teſted by temporal and ſenſible Miracles, as it was at firſt, for the Commendation of our Faith while 'twas young, and to enlarge the Beginnings of the Church: For who expects now, That thoſe on whom Hands are laid, for receiving the</hi> Holy Ghoſt, <hi>ſhould preſently begin to ſpeak with Tongues: But yet, the Divine Love is underſtood to be ſecretly and inviſibly inſpired into their Hearts, by the Bond of Peace, which enables them to ſay, The Love of God is ſpread abroad in our Hearts by the</hi> Holy Spi<g ref="char:EOLhyphen"/>rit <hi>that is given us.</hi> The Conſequence of which will be, That we ought not any of us to deſpiſe <hi>Confirmation,</hi> becauſe 'tis not attended with <hi>miraculous Gifts,</hi> which have ceaſed above 1200 Years ago; ſince though it imparts no <hi>Gifts</hi> to us now, yet it may be the means of communicating ſuch <hi>Graces,</hi> as may enable us to perform our Duty, and practiſe it to the obtaining of Eter<g ref="char:EOLhyphen"/>nal Life, which is far better.</p>
+            <p>As for thoſe therefore, who would have <hi>Con<g ref="char:EOLhyphen"/>firmation</hi> now wholly laid aſide, as not according to the <hi>Example of the Apoſtles,</hi> becauſe in the In<g ref="char:EOLhyphen"/>fancy of the Church, the <hi>Holy Ghoſt</hi> was in ſome Caſes miraculouſly beſtowed by ſuch <hi>Impoſition of Hands,</hi> which ought not for good Reaſons to be expected now;<note place="margin">
+                  <hi>See</hi> Falkner<hi>'s Libertas Eccle<g ref="char:EOLhyphen"/>ſiaſtica</hi> Book II. Chap. 4. §. 2.</note> They may as well, 'tis thought, aſſert that the <hi>Impoſition of Hands</hi> for
+<pb n="16" facs="tcp:66278:12"/>Ordination, is not continued in the Church from the Example of the Apoſtles, becauſe then the <hi>Holy Ghoſt</hi> was ſometimes extraordinarily given thereby; or that our <hi>Praying</hi> and <hi>Preaching</hi> is not a doing that, for which we have the <hi>Apoſtles</hi> for an Example, becauſe we cannot by them ex<g ref="char:EOLhyphen"/>pect, we do not any where find, amongſt thoſe that pretend chiefly to the <hi>Spirit,</hi> ſuch wonder<g ref="char:EOLhyphen"/>ful Gifts, as ſometimes were conferred under the <hi>Apoſtles</hi> Doctrine, and by their Prayer. But,</p>
+            <p n="2">2dly, If the Rite of <hi>Impoſition of Hands</hi> in <hi>Confirmation</hi> is to be <hi>perpetual:</hi> Our next En<g ref="char:EOLhyphen"/>quiry muſt be, where, or with whom the Pow<g ref="char:EOLhyphen"/>er of thus <hi>Laying on the Hands</hi> is lodg'd. The <hi>Presbyterians</hi> all ſay, With the <hi>Prieſts;</hi> We of the <hi>Church</hi> of <hi>England</hi> unanimouſly, With the <hi>Bi<g ref="char:EOLhyphen"/>ſhops;</hi> and that for this Reaſon amongſt others, Becauſe the Dignity of their Office chiefly gives Authority to <hi>bleſs</hi> (according to that Rule of the Apoſtle, <hi>without all contradiction, The Leſs is bleſſed of the Greater,</hi>)<note place="margin">Heb. 7.7.</note> Which Reaſon, as it was back'd by that early notable Example, of St. <hi>Pe<g ref="char:EOLhyphen"/>ter</hi>'s and St. <hi>John</hi>'s Miſſion from <hi>Jeruſalem</hi> to <hi>Samaria,</hi> to <hi>confirm</hi> thoſe whom St. <hi>Philip</hi> had <hi>baptiz'd,</hi> but could not <hi>confirm,</hi> made this Cu<g ref="char:EOLhyphen"/>ſtom ſo prevail in the Church,
+<note place="margin">L'Eſtrange <hi>his Alliance of Di<g ref="char:EOLhyphen"/>vine Offices, chap.</hi> 9. <hi>p.</hi> 258.</note> That, we are told, there cannot be produc'd any <hi>authentick</hi> Teſtimony out of Eccleſiaſtical Hiſtory, where
+<pb n="17" facs="tcp:66278:12"/>a mere <hi>Presbyter</hi> preſumed to exerciſe the Office of <hi>confirming,</hi> which was ever in the Primitive Church reſerved to the <hi>Biſhop</hi> alone. This I might largely prove out of <hi>Antiquity,</hi> particu<g ref="char:EOLhyphen"/>larly that known Place of St. <hi>Cyprian,
+<note place="margin">Cypr. <hi>Ep. ad Jubaianum de Bapt. haereticis.</hi>
+                  </note> Qui in Eccleſia Baptizantur, Praepoſitis Eccleſiae offerun<g ref="char:EOLhyphen"/>tur,</hi> &amp;c. <hi>Thoſe that are Baptized in the Church, are preſented to the Biſhops to be confirmed. <g ref="char:V">Ʋ</g>t per noſtram orationem ac manus Impoſitionem Spiritum ſanctum conſequantur,</hi> That by our Prayers and <hi>Im<g ref="char:EOLhyphen"/>poſition of Hands</hi> they may receive the <hi>Holy Ghoſt.</hi> But I muſt haſten to my Third Head, remarking this by the Way, That whether the Power of <hi>Confirmation</hi> be lodg'd with <hi>Biſhop</hi> or <hi>Prieſt,</hi> we of <hi>this Church</hi> are certainly in the right, which our <hi>Diſſenting Brethren</hi> may not be: For, if thoſe only can <hi>Confirm,</hi> who are called to the Office of a <hi>Biſhop,</hi> as the Primitive Writers gene<g ref="char:EOLhyphen"/>rally affirm conformable to the Practice of the <hi>Catholick</hi> Church, <hi>we</hi> have ſuch <hi>Biſhops</hi> amongſt us, whilſt <hi>they</hi> confeſſedly have not; If <hi>Prieſts</hi> may do it, our <hi>Biſhops</hi> are, by the Confeſſion of them all, Lawful <hi>Prieſts</hi> in the Church of God: So that the Caſe ſtands thus betwixt us, If <hi>Prieſts</hi> may <hi>confirm,</hi> we have ſuch as well as they, by their own Conceſſion; If <hi>Biſhops</hi> only (as moſt but themſelves hold) <hi>we</hi> have them, whilſt <hi>they</hi> have not.</p>
+            <pb n="12" facs="tcp:66278:13"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="13" facs="tcp:66278:13"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="14" facs="tcp:66278:14"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="15" facs="tcp:66278:14"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="16" facs="tcp:66278:15"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="17" facs="tcp:66278:15"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="18" facs="tcp:66278:16"/>
+            <p>But now in pleading for <hi>Confirmation</hi> by <hi>Bi<g ref="char:EOLhyphen"/>ſhops</hi> only, I would not be thought (as ſome ſlanderouſly inſinuate we of the <hi>Church</hi> do en<g ref="char:EOLhyphen"/>deavour) to make it a <hi>Sacrament,</hi> nay ſet it a<g ref="char:EOLhyphen"/>bove either of the <hi>Sacraments</hi> inſtituted by our <hi>Bleſſed Saviour;</hi> becauſe we allow a <hi>Deacon</hi> to officiate in the <hi>Lord's Supper,</hi> and a <hi>Prieſt</hi> to <hi>Baptize,</hi> but only a <hi>Biſhop</hi> forſooth can <hi>confirm:</hi> No, in this we only follow the Inſtitution and Practice of the <hi>Catholick</hi> Church, which reſerv'd <hi>Solemn Benedictions</hi> as Acts of Paternal Autho<g ref="char:EOLhyphen"/>rity to the <hi>Biſhops</hi> alone; but are ſo far from holding <hi>Confirmation</hi> a <hi>Sacrament,</hi> That we ex<g ref="char:EOLhyphen"/>preſsly ſay,<note place="margin">
+                  <hi>Art.</hi> 25th. <hi>of the</hi> Church <hi>of</hi> Eng<g ref="char:EOLhyphen"/>land.</note> 
+               <hi>Thoſe Five commonly called Sacra<g ref="char:EOLhyphen"/>ments</hi> in the Church of <hi>Rome,</hi> viz. Confirmation, Penance, Orders, Extream Unction <hi>and</hi> Matri<g ref="char:EOLhyphen"/>mony, <hi>are not ſuch; for that they have not any outward viſible ſign or Ceremony (ordained of God)</hi> as Tokens of inward and ſpiritual Grace there<g ref="char:EOLhyphen"/>by conferred. And the <hi>Papiſts</hi> muſt ſuffer us to beg their Pardon, if we reject the <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>anointing Oyl</hi> made uſe of by them in <hi>Confir<g ref="char:EOLhyphen"/>mation</hi> as an outward viſible Sign, <hi>&amp;c.</hi> (which yet we confeſs was anciently uſed in <hi>Baptiſm</hi> and in <hi>Confirmation</hi> too as a Ceremony only) to<g ref="char:EOLhyphen"/>gether with the <hi>Box on the Ear</hi> which the <hi>Biſhop</hi> gives the confirmed Party, the <hi>Binding of the Fore<g ref="char:EOLhyphen"/>head</hi> for Seven Days after, and Abundance other
+<pb n="19" facs="tcp:66278:16"/>
+               <hi>Legerdemain Tricks</hi> fooliſhly and ſuperſtitiouſly brought into this <hi>Religious</hi> Performance by them, till we have as expreſs Warrant from Scripture or Reaſon for them, as we have for <hi>Impoſition of Hands,</hi> which they have <hi>irreverently,</hi> I may ſay, <hi>Sacrilegiouſly</hi> thrown out of this Office, but we have reſtor'd, ſince the Reformation, to its <hi>Primitive <g ref="char:V">Ʋ</g>ſage.</hi>
+            </p>
+            <p>Nor do we allow this <hi>Impoſition of Hands,</hi> to be a ſacramental Sign of pardoning and ſatis<g ref="char:EOLhyphen"/>fying Grace, as Water, Bread and Wine, are in the Sacraments properly ſo called, and which are Means of conveying that Grace unto us; But we look upon that Ceremony here uſed, only<note place="margin">V. Falkneri <hi>Libert. Eccleſi<g ref="char:EOLhyphen"/>aſt.</hi> lib. <hi>&amp;</hi> cap. <hi>uti ſupra</hi> §. 14.</note> 
+               <q>as an immediate Repreſentation of a <hi>Be<g ref="char:EOLhyphen"/>nediction;</hi> and of being thereby received into a higher Degree of Chriſtians, by the <hi>Mini<g ref="char:EOLhyphen"/>ſterial Power</hi> of the Church; and though <hi>fur<g ref="char:EOLhyphen"/>ther Grace</hi> from God is needful in this higher Degree, and humble and devout Perſons may receive Grace from God ſuitable to whatſo<g ref="char:EOLhyphen"/>ever State he calleth them; yet Grace is in theſe Caſes to be expected in the Uſe of <hi>Pray<g ref="char:EOLhyphen"/>er,</hi> and from the <hi>Promiſes</hi> of God's Aſſiſtance to, and Preſence with his <hi>Miniſters,</hi> and Peo<g ref="char:EOLhyphen"/>ple, not immediately by the uſe of <hi>Impoſition of Hands;</hi> The Benefits conſequent upon which,</q> as it is joined with the Prayers of the
+<pb n="20" facs="tcp:66278:17"/>
+               <hi>Biſhop,</hi> and other <hi>Holy Chriſtians,</hi> I come next to conſider, as my Third Head.</p>
+            <p n="3">3. Now the Benefits received by <hi>Impoſition of Hands</hi> in <hi>Confirmation,</hi> with the <hi>Biſhops</hi> and the Church's Prayers, are very great and many: But I ſhall crowd them for the preſent, into the three following. The <hi>Firſt,</hi> with Reſpect to the <hi>Con<g ref="char:EOLhyphen"/>firmed Perſons,</hi> as herein immediately concern'd; the other Two, with Relation to the <hi>Eſtabliſhed National Church</hi> of <hi>Chriſt,</hi> as it at preſent ſtands circumſtantiated in <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> As to the Perſons immediately con<g ref="char:EOLhyphen"/>cern'd; The Benefit they receive by <hi>Confirmation,</hi> if duly qualified, is the Infuſion of that <hi>Heaven<g ref="char:EOLhyphen"/>ly Grace</hi> into their Hearts, mention'd in the <hi>Bi<g ref="char:EOLhyphen"/>ſhop</hi>'s <hi>Benediction,</hi> and ſpecified in the <hi>Firſt Pray<g ref="char:EOLhyphen"/>er,</hi>
+               <note place="margin">
+                  <hi>See Dr.</hi> Com<g ref="char:EOLhyphen"/>ber, <hi>pag.</hi> 223.</note> as we are aſſured out of the Office of <hi>Confirma<g ref="char:EOLhyphen"/>tion</hi> as long ago as St. <hi>Ambroſe</hi>'s Time, To be the <hi>Spirit</hi> of <hi>Wiſdom</hi> and of <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding;</hi> Of <hi>Wiſdom,</hi> i. e. in ſpiritual Matters; and of <hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>derſtanding, i. e.</hi> of apprehending what we are taught; The <hi>Spirit</hi> of <hi>Counſel</hi> and of <hi>Ghoſtly Strength;</hi> of <hi>Counſel, i. e.</hi> of prudent managing all our Actions; and of <hi>Ghoſtly Strength, i. e.</hi> of executing all our Religious Purpoſes; The <hi>Spi<g ref="char:EOLhyphen"/>rit</hi> of <hi>Knowledge,</hi> and of <hi>True Godlineſs;</hi> of Knowledge, <hi>i. e.</hi> of diſcerning between Good and Evil; and of <hi>True Godlineſs, i. e.</hi> of Devo<g ref="char:EOLhyphen"/>tion
+<pb n="21" facs="tcp:66278:17"/>in God's Service; <hi>Laſtly,</hi> The <hi>Spirit</hi> of <hi>Fear, i. e.</hi> of Reverence towards God in all our Actions: And what an ineſtimable Advantage is this, if we reap this great Bleſſing from <hi>Con<g ref="char:EOLhyphen"/>firmation,</hi> as I queſtion not, but every pious Chriſtian doth, who is ſincere in his Intentions and Endeavours?
+<note place="margin">Id. <hi>ibid.</hi>
+               </note> If we are from henceforward wiſe and apprehenſive, prudent and courageous; diſcreet in our choice; devout in our Duties; and pious in our Lives; what <hi>Graces</hi> will there be wanting? Which of them will not ſpring from this Root? We ſhall then be endued with Cha<g ref="char:EOLhyphen"/>rity, and the Love of God: Humility and Watchfulneſs; Faith and Holineſs; Meekneſs and Patience; Temperance and Chaſtity; every thing that may make us good Chriſtians, good <hi>Communicants;</hi> Whence a Second Benefit of <hi>Con<g ref="char:EOLhyphen"/>firmation</hi> ariſes to the <hi>National Church</hi> of <hi>Chriſt</hi> here eſtabliſhed amongſt us.</p>
+            <p n="2">2. 'Tis a known inveterate Prejudice ſown in the Minds of moſt <hi>Presbyterians, Independants,</hi> and others among us, That we admit to the <hi>Holy Sacrament,</hi> all ſorts of Comers, good or bad, godly or profane, without any Care, or the leaſt Diſtinction: To which (though I might anſwer, That their own <hi>Communions,</hi> however they may pretend them to be made up of the only Saints here on Earth, are but <hi>mixt</hi>
+               <pb n="22" facs="tcp:66278:18"/>ones, (as is too evident from the ſcandalous Lives of many of their moſt zealous Profeſſors as well as ours) and that whatever is amiſs amongſt us of that Nature, might have been cured long ſince by that <hi>Diſcipline,</hi> wiſh'd for every Year in the <hi>Aſh-Wedneſday</hi> ſervice, <note place="margin">
+                  <hi>Preface to the</hi> Commination.</note> did not they indu<g ref="char:EOLhyphen"/>ſtriouſly hinder its Reſtauration, by bug-bearing People into ſtrange Notions of its <hi>Popiſhneſs, Prelateneſs,</hi> and I know not what <hi>Miſchievouſ<g ref="char:EOLhyphen"/>neſs</hi> beſides:) I ſay, though I might reply thus to them, yet we may hence all of us afford them a more convincing Argument to the contrary, and at the ſame time demonſtrate the great Ad<g ref="char:EOLhyphen"/>vantages of <hi>Confirmation,</hi> which we have, but they have not yet received amongſt them, though <hi>confeſſedly</hi> of ſo very great Uſe.
+<note place="margin">
+                  <hi>See above pag.</hi> 9, 10.</note> That is, let us every one of us, who ſhall be, or are alrea<g ref="char:EOLhyphen"/>dy <hi>confirm'd,</hi> but approach to the <hi>Holy Sacra<g ref="char:EOLhyphen"/>ment</hi>
+               <note place="margin">
+                  <hi>And there ſhall none be admit<g ref="char:EOLhyphen"/>ted to the Holy Communion, un<g ref="char:EOLhyphen"/>til ſuch time as he be confirmed,</hi> &amp;c. Rubr. 3d. in the Office of Confirma<g ref="char:EOLhyphen"/>tion.</note> (and no Body ought to come near it be<g ref="char:EOLhyphen"/>fore <hi>Confirmation,</hi> as ours with the <hi>Primitive</hi> Church expreſſes its Unwillingneſs in the laſt <hi>Rubrick</hi> of the Office for it) with devouter Af<g ref="char:EOLhyphen"/>fections, and live to better Purpoſe after <hi>Confir<g ref="char:EOLhyphen"/>mation</hi> than before we did, and we cannot fail of doing a great deal of Honour to God Al<g ref="char:EOLhyphen"/>mighty, by thus vindicating our Church's Con<g ref="char:EOLhyphen"/>ſtitutions, and doubly ſtopping the Mouths of theſe Gain-ſayers; as effectually we do,</p>
+            <pb n="23" facs="tcp:66278:18"/>
+            <p n="3">3. Thoſe of the <hi>Anabaptiſts:</hi>
+               <note place="margin">V. Humfredi <hi>Ep. Sarisburi<g ref="char:EOLhyphen"/>enſis</hi> Diat. Prae<g ref="char:EOLhyphen"/>limin. <hi>ad</hi> Ham<g ref="char:EOLhyphen"/>mondi <hi>Com de Confirmat.</hi> §. 12.</note> The chiefeſt of whoſe Objections againſt our <hi>Infant-Baptiſm,</hi> is, That it doth not lay ſo ſtrict an Obligation upon Men, as that of <hi>Adult</hi> Perſons doth: But ſee, how the Force of that is taken away by the right Uſe of <hi>Confirmation</hi> amongſt us; For, do they call for a <hi>Perſonal covenanting with Chriſt</hi> in Believers?<note place="margin">
+                  <hi>See the Biſhop's Interrogation in the</hi> Confirma<g ref="char:EOLhyphen"/>tion <hi>Office.</hi>
+               </note> Here we have it, every <hi>confirm'd</hi> Perſon taking upon him, or her ſelf thoſe Vows which were made for them in Baptiſm by Proxy; Do they require <hi>Publick Solemnity</hi> in this Mat<g ref="char:EOLhyphen"/>ter, for a firmer Engagement of Men to their Duty? Our <hi>Confirmation</hi> anſwers this their Ex<g ref="char:EOLhyphen"/>pectation to a Tittle: For we ever renew our Baptiſmal Vow, in the <hi>Church,</hi> the moſt Publick Place ſet apart for God's Publick Worſhip, be<g ref="char:EOLhyphen"/>fore the <hi>Biſhop</hi> and others, God's publick <hi>Mini<g ref="char:EOLhyphen"/>ſters,</hi> and a full Congregation frequently. Is there any thing elſe, that can engage Perſons more rigidly to the Performance of this <hi>Cove<g ref="char:EOLhyphen"/>nant,</hi> which the <hi>Anabaptiſts</hi> don't require? Can a particular Witneſs, that may frequently ſtir us up to the Remembrance of our Solemn Promiſe made to God before his People, be deſired for this end? That nothing may be wanting to ren<g ref="char:EOLhyphen"/>der People as much Chriſtians as can be, Our Church enjoins,
+<note place="margin">Rubr. 4th. <hi>in the</hi> Church-Ca<g ref="char:EOLhyphen"/>techiſm.</note> 
+               <hi>That every one ſhall have a God-father or God-mother, as a Witneſs of their Confir<g ref="char:EOLhyphen"/>mation.</hi>
+               <pb n="24" facs="tcp:66278:19"/>Which Order, were it not neglected as I fear it is too much, would make our Provi<g ref="char:EOLhyphen"/>ſion more effectual for the promoting of Chriſtia<g ref="char:EOLhyphen"/>nity, and leſs exceptionable, than the Rebapti<g ref="char:EOLhyphen"/>zation of theſe our Adverſaries. But now,</p>
+            <p>
+               <hi>Fourthly</hi> and <hi>Laſtly,</hi> That theſe Three Bene<g ref="char:EOLhyphen"/>fits of <hi>Confirmation</hi> may truly redound to ours and the Church's Good, The Perſon immedi<g ref="char:EOLhyphen"/>ately concern'd, muſt be of a <hi>competent Age,</hi>
+               <note place="margin">Rub. 3d. <hi>in the Catechiſm.</hi>
+               </note> Which is the firſt Qualification, ought to be re<g ref="char:EOLhyphen"/>quired of Perſons that do deſire to be <hi>confir<g ref="char:EOLhyphen"/>med.</hi>
+            </p>
+            <p>'Twas the Practice of the Church of <hi>Rome</hi> at firſt, to confirm Children preſently after <hi>Bap<g ref="char:EOLhyphen"/>tiſm;</hi> not many Years ago here in <hi>England</hi> they did it not till they were Five Years of Age; and in a late <hi>Council,</hi> younger than that of <hi>Trent,</hi> (ſince the Printing of our <hi>Common-Prayer Book</hi>) they have prohibited the Adminiſtration of it to all under Seven at leaſt.<note place="margin">
+                  <hi>Minori ſepten<g ref="char:EOLhyphen"/>nio Confirmati<g ref="char:EOLhyphen"/>onis Sacramen<g ref="char:EOLhyphen"/>tum nemini prae<g ref="char:EOLhyphen"/>beatur.</hi> Conc. Mediol. I. Cap. <hi>Quae pertinent ad Sacramenti Confirmat. ad<g ref="char:EOLhyphen"/>miniſtrationem.</hi>
+               </note>
+            </p>
+            <p>I am glad, I confeſs, to ſee a Church that boaſts ſo much of her <hi>Antiquity,</hi> doth not think her ſelf yet <hi>too old</hi> to learn:<note place="margin">
+                  <hi>Quare ſi duode<g ref="char:EOLhyphen"/>cimus annus non expectandus vi<g ref="char:EOLhyphen"/>deatur, uſque ad ſeptimum certe annum differre, maxime conve<g ref="char:EOLhyphen"/>nit.</hi> Catechiſm. ad Paroechos. <hi>Cap. de</hi> Confir<g ref="char:EOLhyphen"/>matione.</note> But ſhe has not reached the Prudence of our Conſtitution for all that: There being ſome at Seven, nay at Twelve (which is thought early enough by ſome) what through difference of Education, want of na<g ref="char:EOLhyphen"/>tural Parts, and other the like Impediments, are
+<pb n="25" facs="tcp:66278:19"/>as uncapable of anſwering the End and Deſign of <hi>Confirmation,</hi> as others are at Five: Our Church therefore by requiring, that Perſons to be <hi>confirm'd,</hi> ſhould be of a <hi>competent Age,</hi> leaves it to the Care of Miniſters, Parents, God-fathers, Maſters, or other Truſtees, That they recom<g ref="char:EOLhyphen"/>mend none to the <hi>Biſhop,</hi> but ſuch as are of Years of <hi>Diſcretion enough</hi> (be they older or younger) to make a Renunciation of the <hi>Devil,</hi> the <hi>Pomps</hi> and <hi>Vanities</hi> of the <hi>World,</hi> with all the <hi>ſinful Luſts</hi> of the <hi>Fleſh;</hi> and can give a tolerable ac<g ref="char:EOLhyphen"/>count of the <hi>Creed,</hi> the <hi>Lord</hi>'s <hi>Prayer,</hi> the <hi>Ten Commandments</hi> and the <hi>Sacraments.</hi> Thoſe there<g ref="char:EOLhyphen"/>fore, who bring or ſend any to <hi>Confirmation</hi> who can only ſay their <hi>Catechiſm</hi> by Rote, and are not duly qualified, as has been ſaid; though they mean well in the main, I don't doubt, yet they muſt be look'd upon as ſuch, who groſsly abuſe their Charge, and expoſe this Holy Inſti<g ref="char:EOLhyphen"/>tution to the juſt Scoffs of the Enemy, who will be ſure to brand it, upon this Account, as a ridi<g ref="char:EOLhyphen"/>culous, uſeleſs Ceremony.</p>
+            <p n="2">2dly, As Perſons deſirous of <hi>Confirmation,</hi> muſt be of a <hi>competent Age,</hi> ſo be they never ſo old, they ſhould not be <hi>confirmed</hi> twice; 'Tis a pious Errour, I verily believe, in a great many, who thinking they can't have the Bleſſing of a <hi>Holy Man</hi> too often, follow the <hi>Biſhop</hi> almoſt
+<pb n="26" facs="tcp:66278:20"/>whereſoever he goes. But ſuch are to be ac<g ref="char:EOLhyphen"/>quainted, ſince 'tis hardly poſſible to avoid the Impracticableneſs of its Reiteration in populous Cities, that there is no more need of a Second <hi>Confirmation</hi> than there is of a Second <hi>Baptiſm.</hi>
+            </p>
+            <p n="3">3dly, The laſt Qualification of Perſons to be confirmed is, That they come with <hi>Devotion</hi> and <hi>Reverence,</hi> not for <hi>Faſhion</hi>'s <hi>Sake</hi> or <hi>Compa<g ref="char:EOLhyphen"/>ny</hi>'s <hi>Sake</hi> only, as I fear, is the Caſe of too many. They who come to <hi>Confirmation,</hi> ſhould be as much in earneſt, as if they were going to the <hi>Holy Sacrament,</hi> or were even upon their Death-Beds:<note place="margin">
+                  <hi>See the</hi> Interro<g ref="char:EOLhyphen"/>gation <hi>and</hi> An<g ref="char:EOLhyphen"/>ſwer <hi>in the Of<g ref="char:EOLhyphen"/>fice of</hi> Confir<g ref="char:EOLhyphen"/>mation.</note> For when they anſwer all, <hi>I do,</hi> to the Biſhop's Queſtion, who asks them, Whether they will now releaſe their God-fathers and God-mo<g ref="char:EOLhyphen"/>thers from the Vow they took in their Names, and take it now in Perſon,</p>
+            <p>They ſolemnly promiſe the utmoſt Diligence and endeavour in their <hi>Chriſtian Warefare;</hi> the Breach of which he will moſt grievouſly puniſh in the negligent; but to the reſt will afford ſuch Strengthening Grace, as may enable them to overcome the <hi>Powers of Darkneſs,</hi> and gain that immortal Prize, the <hi>Crown of Glory</hi> which he has <hi>laid up for all them,</hi> who ſhall <hi>fight a good Fight,</hi> and <hi>finiſh their Courſe,</hi> by <hi>continuing faith<g ref="char:EOLhyphen"/>ful to the End.</hi>
+            </p>
+            <pb n="27" facs="tcp:66278:20"/>
+            <p>Having thus explain'd to you at large the Nature of <hi>Confirmation,</hi> told you who only has Authority to <hi>confirm,</hi> ſet down the <hi>Benefits</hi> of it, and hinted at the Qualifications of ſuch as are deſirous of them.</p>
+            <p>Give me leave, before I diſmiſs you, to pre<g ref="char:EOLhyphen"/>ſent you in <hi>Miniature,</hi> with an exact Repreſen<g ref="char:EOLhyphen"/>tation of the whole, according to the exacteſt Model of the Excellent <hi>Eraſmus:</hi> Who, in his Wiſhes for a more uſeful <hi>Confirmation</hi> than that in the <hi>Church</hi> of <hi>Rome,</hi> many Years ago, ſeems me<g ref="char:EOLhyphen"/>thinks prophetically as it were, to deſcribe what we ſhall ſee perform'd here this Afternoon: His Words are to this Purpoſe, in his larger Preface to his Annotations on the new Teſtament:<note place="margin">
+                  <hi>Aguntur nunc in Templis quibuſ<g ref="char:EOLhyphen"/>dam Comediae de Chriſto reſur<g ref="char:EOLhyphen"/>gente,</hi> &amp;c. E<g ref="char:EOLhyphen"/>raſm. Rotero<g ref="char:EOLhyphen"/>dam. <hi>Pio Lect.</hi>
+               </note> You ſhall ſee, ſaith he now, Comedies acted in ſome Churches (meaning thoſe under the Papal Juriſ<g ref="char:EOLhyphen"/>diction) of the Reſurrection of <hi>Chriſt,</hi> of his Aſcenſion to Heaven, of his ſending the <hi>Holy Ghoſt,</hi> and the like: But how magnificent would this Spectacle be, To hear the Voice of many Youths dedicating themſelves to <hi>Jeſus Chriſt?</hi> of many Striplings taking their Oath of Allegi<g ref="char:EOLhyphen"/>ance to him at the Hands of the Biſhop? To ſee theſe new Chriſtians, that carry their Ge<g ref="char:EOLhyphen"/>neral's Mark in their Foreheads, which they re<g ref="char:EOLhyphen"/>ceived at the ſacred Laver, renouncing the World which all lies in Wickedneſs, abjuring and hiſ<g ref="char:EOLhyphen"/>ſing
+<pb n="28" facs="tcp:66278:21"/>at the Devil, with all his Pomps, Pleaſures and Works; and to hear the Voice of the reſt of the Multitude applauding and wiſhing well to theſe young Soldiers of <hi>Chriſt.</hi>
+            </p>
+            <p>And let us, who have been already <hi>confirm'd</hi> ſo heartily wiſh well to them all, that we may at the ſame time look well to our ſelves, who are e<g ref="char:EOLhyphen"/>very one of us equally concern'd in the Buſineſs of the Day: Our Church having appointed <hi>Confirmation</hi> as well as <hi>Baptiſm,</hi> to be admini<g ref="char:EOLhyphen"/>ſtred <hi>Publickly,</hi> that her ſeveral Members, may have frequent opportunities of being put in mind of thoſe <hi>Vows,</hi> which God knows, the beſt of us are too prone to forget.</p>
+            <p>That we may then all of us improve this fa<g ref="char:EOLhyphen"/>vourable one to our great Advantage, Let me conclude the whole Diſcourſe, with a Word of Advice to every one of you here preſent. As well to you who are already confirmed, as you who ſhall be by and by, in the incomparable Ex<g ref="char:EOLhyphen"/>hortation of the Greek Church to her Cate<g ref="char:EOLhyphen"/>chumens when they promiſe to become Chri<g ref="char:EOLhyphen"/>ſtians.
+<note place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> &amp;c. <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>factà a Pariar<g ref="char:EOLhyphen"/>châ congregatis Catchumenis in</hi> Euchol. Grae<g ref="char:EOLhyphen"/>corum <hi>Edit. Goar. p.</hi> 342.</note> 
+               <hi>The Bonds are now ſeal'd, and Chriſt has receiv'd them, who is in Heaven: Mind your Pro<g ref="char:EOLhyphen"/>miſes, and fulfil your Engagements, which will be openly produc'd at the Day of Judgment: —Take heed ye bluſh not at Chriſt's dreadful Tribunal where all the Powers of Heaven tremble, and all
+<pb n="29" facs="tcp:66278:21"/>Mankind ſtands to be judg'd: Where the Devil will be preſent to accuſe you, ſaying, Lord, this Wretch in word renounced me</hi> at thy Altar, be<g ref="char:EOLhyphen"/>fore the Biſhop, other thy Miniſters, and the whole Congregation, <hi>but in Deed was my Ser<g ref="char:EOLhyphen"/>vant: Then Angels ſhall ſigh, and Holy Men be<g ref="char:EOLhyphen"/>wail their Miſery: But Father nor Mother cannot help you; Brethren and Friends will not own you, but every Man ſhall be naked and deſtitute; Con<g ref="char:EOLhyphen"/>ſider therefore, and provide for your own Safeties</hi> in this Life, that ye may be all happy in the Next.</p>
+            <p>Which God of his infinite Mercy grant, <hi>&amp;c.</hi>
+            </p>
+            <p>To whom with the <hi>Son,</hi> and the <hi>Holy Ghoſt, Trinity</hi> in <hi>
+                  <g ref="char:V">Ʋ</g>nity,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> in <hi>Trinity,</hi> be aſcribed by the whole World, all poſſible <hi>Adoration, Honour</hi> and <hi>Glory.</hi>
+            </p>
+            <p>
+               <hi>As it was in the Beginning, is now, and ever ſhall be, World without End.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:66278:22"/>
+            <head>Books Printed for <hi>Henry Bonwicke,</hi> at the <hi>Red-Lion</hi> in St. <hi>Paul</hi>'s Church-Yard.</head>
+            <p>THE General Hiſtory of the Reformation of the Church: written in Latin by <hi>John Sleidan,</hi> faithfully Engliſhed; To which is added a Continuation to the End of the Council of <hi>Trent,</hi> by <hi>E. Bohun</hi> Eſquire, in <hi>Folio.</hi>
+            </p>
+            <p>Two Uſeful Caſes reſolved. 1. Whether a Certainty of be<g ref="char:EOLhyphen"/>ing in a State of Salvation be attainable. 2. What is the Rule by which this Certainty is to be attain'd. 4<hi rend="sup">o</hi>
+            </p>
+            <p>A Sermon Preached at the Funeral of the Reverend Mr. <hi>John Culme,</hi> Vicar of <hi>Knowſtone</hi> and <hi>Molland,</hi> in <hi>Devon:</hi> By <hi>Lewis Southcomb,</hi> Rector of <hi>Roſe-Aſh.</hi>
+            </p>
+            <p>Of <hi>Publick Baptiſm.</hi> A Sermon Preached before the Lord Mayor, <hi>&amp;c.</hi> at <hi>Guild-Hall-Chapel,</hi> Nov. 20th. 1692. By <hi>Philip Stubs,</hi> A. M.</p>
+            <p>A Diſcourſe, proving from Scripture and Reaſon, that the Life of Man is not limited by any abſoute Decree of God, By the Author of the Duty of Man, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: Or Hope and Peace: In a Letter to a Perſon troubled in Mind, who (though a Vertuous Lady yet) laboured under the great Scrupuloſities, Doubts and Fears, and ſome uneaſie Degrees of Deſparation. By a Divine of the Church of <hi>England.</hi> 12<hi rend="sup">o</hi>.</p>
+            <p>The Art of Catechiſing, or the Compleat Catechiſt, in Four Parts. 1. The Church-Catechiſm reſolved into eaſie Queſtions. 2. An Expoſition of it in a continued, full and plain Diſcourſe. 3. The Church-Catechiſm reſolved into Scripture-Proofs. 4. The Whole Duty of Man fitted for the meaneſt Capacities, the weakeſt Memories, the plaineſt Teachers, and the moſt Unin<g ref="char:EOLhyphen"/>ſtructed Learners.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
